@@ -7,8 +7,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Heroes rogue = new Heroes(110, 10);
-        Creature warrior = new Heroes(90, 30);
-        Creature mage = new Heroes(100, 20);
+        Heroes warrior = new Heroes(90, 30);
+        Heroes mage = new Heroes(100, 20);
         int choice;
 
         do {
@@ -26,23 +26,18 @@ public class Main {
         switch (choice) {
             case 1:
                 System.out.println("*************************");
-                System.out.println("You choose Rogue!");
                 rogue.rogue();
                 System.out.println("*************************");
 
                 break;
             case 2:
                 System.out.println("*************************");
-                System.out.println("You choose Warrior!");
-                System.out.println("Warriors hp is: " + warrior.getHp());
-                System.out.println("Warriors damage is: " + warrior.getDamage());
+                warrior.warrior();
                 System.out.println("*************************");
                 break;
             case 3:
                 System.out.println("*************************");
-                System.out.println("You choose Mage!");
-                System.out.println("Mages hp is: " + mage.getHp());
-                System.out.println("Mages damage is: " + mage.getDamage());
+                mage.mage();
                 System.out.println("*************************");
                 break;
 
