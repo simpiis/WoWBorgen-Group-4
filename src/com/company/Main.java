@@ -6,7 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        Heroes heroes = new Heroes();
+        Heroes rogue = new Heroes(100, 20);
+        Heroes warrior = new Heroes(100, 20);
+        Heroes mage = new Heroes(100, 20);
         int choice;
 
         do {
@@ -25,19 +27,19 @@ public class Main {
             case 1:
                 System.out.println("*************************");
                 System.out.println("You choose Rogue!");
-                heroes.rouge();
+                rogue.rouge();
                 System.out.println("*************************");
                 break;
             case 2:
                 System.out.println("*************************");
                 System.out.println("You choose Warrior!");
-                heroes.warrior();
+                warrior.warrior();
                 System.out.println("*************************");
                 break;
             case 3:
                 System.out.println("*************************");
                 System.out.println("You choose Mage!");
-                heroes.mage();
+                mage.mage();
                 System.out.println("*************************");
                 break;
         }
