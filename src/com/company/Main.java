@@ -7,8 +7,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Heroes rogue = new Heroes(110, 10);
-        Heroes warrior = new Heroes(90, 30);
-        Heroes mage = new Heroes(100, 20);
+        Creature warrior = new Heroes(90, 30);
+        Creature mage = new Heroes(100, 20);
         int choice;
 
         do {
@@ -27,21 +27,25 @@ public class Main {
             case 1:
                 System.out.println("*************************");
                 System.out.println("You choose Rogue!");
-                rogue.rouge();
+                rogue.rogue();
                 System.out.println("*************************");
+
                 break;
             case 2:
                 System.out.println("*************************");
                 System.out.println("You choose Warrior!");
-                warrior.warrior();
+                System.out.println("Warriors hp is: " + warrior.getHp());
+                System.out.println("Warriors damage is: " + warrior.getDamage());
                 System.out.println("*************************");
                 break;
             case 3:
                 System.out.println("*************************");
                 System.out.println("You choose Mage!");
-                mage.mage();
+                System.out.println("Mages hp is: " + mage.getHp());
+                System.out.println("Mages damage is: " + mage.getDamage());
                 System.out.println("*************************");
                 break;
+
         }
         // Map with options to go.
       /*  System.out.println("\nOh a monster is in the way of your journey");
