@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d2d0c6-fa94-49d3-9cfc-566388de0dcd" name="Default Changelist" comment="" />
+    =======
+    <list default="true" id="ff2e83e5-d11d-4dab-9401-4541729ebe1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; b0dab10da6d70fe3d136e7cd4fecf0bcb0dd2737
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

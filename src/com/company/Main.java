@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        Heroes rogue = new Heroes(100, 20);
-        Heroes warrior = new Heroes(100, 20);
+        Heroes rogue = new Heroes(110, 10);
+        Heroes warrior = new Heroes(90, 30);
         Heroes mage = new Heroes(100, 20);
         int choice;
 
