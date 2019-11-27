@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="e9d2d0c6-fa94-49d3-9cfc-566388de0dcd" name="Default Changelist" comment="" />
-=======
     <list default="true" id="e9d2d0c6-fa94-49d3-9cfc-566388de0dcd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Heroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Heroes.class" afterDir="false" />
@@ -11,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/src/com/company/Heroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Heroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
->>>>>>> bd65d452b3500b8e829cd7e091c5af2b2201d819
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +47,10 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="WoWBorgen" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
