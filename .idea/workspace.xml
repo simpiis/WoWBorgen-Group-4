@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    HEAD
-    <list default="true" id="e9d2d0c6-fa94-49d3-9cfc-566388de0dcd" name="Default Changelist" comment="&quot;Test with hero changes&quot;" />
-    <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    =======
-    <list default="true" id="b2d6ac7f-447c-40e0-8b0a-0a9d70acd2e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Heroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Heroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Main.class" afterDir="false" />
-      &gt;&gt;&gt;&gt;&gt;&gt;&gt; 02b2cae0fb3492780838d4c92d11b3ce091435b3
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    <list default="true" id="e9d2d0c6-fa94-49d3-9cfc-566388de0dcd" name="Default Changelist" comment="&quot;Test with hero changes&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WoWBorgen-Group-4" beforeDir="false" afterPath="$PROJECT_DIR$/WoWBorgen-Group-4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WoWBorgen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Creature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Heroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Creature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Heroes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +43,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
