@@ -65,9 +65,6 @@ public class Main {
 
 
 
-
-
-
     public static int combatMethod(int playerdmg, int playerhp, int monsterdmg, int monsterhp) {
         Scanner input = new Scanner(System.in);
         System.out.println("--- Combat Menu ---");
