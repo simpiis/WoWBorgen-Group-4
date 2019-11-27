@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e9d2d0c6-fa94-49d3-9cfc-566388de0dcd" name="Default Changelist" comment="&quot;Test with hero changes&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
@@ -18,6 +19,23 @@
       <change beforePath="$PROJECT_DIR$/src/com/company/Creature.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Heroes.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+=======
+    HEAD
+    <list default="true" id="e9d2d0c6-fa94-49d3-9cfc-566388de0dcd" name="Default Changelist" comment="&quot;Test with hero changes&quot;" />
+    <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    =======
+    <list default="true" id="b2d6ac7f-447c-40e0-8b0a-0a9d70acd2e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Creature.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Creature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Heroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Heroes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WoWBorgen/com/company/Main.class" afterDir="false" />
+<<<<<<< HEAD
+=======
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; 02b2cae0fb3492780838d4c92d11b3ce091435b3
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+>>>>>>> 7efd8b143145e7d94926ac53c7d8ab5f71f4fb22
+>>>>>>> 5e3205da0c1f3211abb3c017d8d0526c34df29df
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -59,7 +77,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="WoWBorgen" />
